@@ -1,18 +1,18 @@
-<h1 align="center">Hi I'm Pranava Swaroopa</h1>
-<h3 align="center">Masters Student at Clemson University <a href="Go Tigers">
+<h1 align="center">Hi, I'm Pranava Swaroopa</h1>
+<h3 align="center">Master's Student at Clemson University <a href="Go Tigers">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Clemson_Tigers_logo.svg/225px-Clemson_Tigers_logo.svg.png" alt="Clemson Tigers" height="20" width="20" align = "center"/>
   </a> </h3>
-<h4 align="center">Dept of Automotive Engineering - International Center for Automotive Research</h4>
+<h4 align="center">Department of Automotive Engineering - International Center for Automotive Research</h4>
 
 - 🔭 I’m currently working on MATLAB-ROS
 
-- 🌱 I’m currently learning about Reinforcement Learning
+- 🌱 I’m learning about Reinforcement Learning
 
 - 📫 How to reach me: pswaroo@clemson.edu
 
 - 😄 Pronouns: He/Him
 
-- ⚡ Fun fact: I have worked on projects on an Oil Refinery, Fly Brain, and Robot
+- ⚡ Fun fact: I have experience working with Turtlebots, Fly Brain and Oil Refineries.
 
 - 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/100OJU_pLkAS8z3iDIapAI_GQ02mw4SW6/view?usp=sharing)
 
