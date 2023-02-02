@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact: I have experience working with Turtlebots, Fly Brain and Oil Refineries.
 
-- 📄 Know about my work & experiences : [My Resume](https://drive.google.com/file/d/100OJU_pLkAS8z3iDIapAI_GQ02mw4SW6/view?usp=sharing)
+- 📄 Know about my work & experiences : [My Resume](https://drive.google.com/file/d/1qcp8ezM7QwLFm8rUvmOwfLAhyXif7Va4/view?usp=share_link)
 
 - Highlighted Projects : [Autonomous Turtlebot](https://github.com/ppswaroopa/Aue8230Spring2022_Group7/tree/main/group7_ws/src/auefinals) | [Drivable Area Detection under Severe Weather](https://github.com/ppswaroopa/Lane-Detection-In-Foggy-Weather)
 
