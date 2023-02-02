@@ -5,9 +5,9 @@
   </a> </h3>
 <h4 align="center">Department of Automotive Engineering - International Center for Automotive Research</h4>
 
-- 🔭 I’m currently working on Robotics Simulation
+- 🔭 I’m currently developing CNNs to help vehicles in off-road.
 
-- 🌱 I’m learning about Reinforcement Learning
+- 🌱 I’m learning C++
 
 - 📫 How to reach me: pswaroo@clemson.edu
 
