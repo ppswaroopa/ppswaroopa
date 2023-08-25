@@ -1,19 +1,21 @@
 # **Hi, I'm Pranava Swaroopa**
 
-<h3 align="center">Master's Student at Clemson University <a href="Go Tigers">
+<h3 align="center">Master's in Automotive Engineering from Clemson University <a href="Go Tigers">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Clemson_Tigers_logo.svg/225px-Clemson_Tigers_logo.svg.png" alt="Clemson Tigers" height="20" width="20" align = "center"/>
   </a> </h3>
 <h4 align="center">Department of Automotive Engineering - International Center for Automotive Research</h4>
 
-- 🔭 I’m currently developing CNNs to help vehicles in off-road.
+- 🔭 I’m currently looking for new job opportunities, meanwhile, I am working on off-road autonomy
 
 - 🌱 I’m learning C++
 
-- 📫 How to reach me: pswaroo@clemson.edu
+- 📫 How to reach me: pswaroo@clemson.edu | ppswaroopa@gmail.com
 
 - 😄 Pronouns: He/Him
 
-- ⚡ Fun fact: I have experience working with Turtlebots, Fly Brain and Oil Refineries.
+- ⚡ Fun fact: I have experience working with Turtlebots, Fly Brain, and Oil Refineries.
+
+- 🌐 My portfolio ppswaroopa.github.io
 
 - 📄 Know about my work & experiences : [My Resume](https://drive.google.com/uc?export=download&id=14D5X3j-NhxKQE5NuNnpyptPG89hG1caY)
 
