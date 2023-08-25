@@ -17,7 +17,7 @@
 
 - 📄 Know about my work & experiences : [My Resume](https://drive.google.com/uc?export=download&id=14D5X3j-NhxKQE5NuNnpyptPG89hG1caY)
 
-- Highlighted Projects : [Autonomous Turtlebot](https://github.com/ppswaroopa/Aue8230Spring2022_Group7/tree/main/group7_ws/src/auefinals) | [Drivable Area Detection under Severe Weather](https://github.com/ppswaroopa/Lane-Detection-In-Foggy-Weather)
+- Highlighted Projects : [Autonomous Turtlebot](https://github.com/ppswaroopa/AutoBot) | [Drivable Area Detection under Severe Weather](https://github.com/ppswaroopa/Lane-Detection-In-Foggy-Weather) | [Linux System Monitor](https://github.com/ppswaroopa/Linux-System-Monitor) | [Snake Game](https://github.com/ppswaroopa/Snake-Game)
 
 - Connect with me on LinkedIn <a href="https://www.linkedin.com/in/pranavaswaroopa/" target="blank"><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranava-swaroopa" height="20" width="20" /></a>
 
