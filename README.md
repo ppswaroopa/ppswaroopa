@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact: I have experience working with Turtlebots, Fly Brain, and Oil Refineries.
 
-- 🌐 My portfolio ppswaroopa.github.io
+- 🌐 My portfolio [ppswaroopa.github.io](https://ppswaroopa.github.io)
 
 - 📄 Know about my work & experiences : [My Resume](https://drive.google.com/uc?export=download&id=14D5X3j-NhxKQE5NuNnpyptPG89hG1caY)
 
