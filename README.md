@@ -1,15 +1,12 @@
 # **Hi, I'm Pranava Swaroopa**
 
-<h3 align="center">Master's in Automotive Engineering from Clemson University <a href="Go Tigers">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Clemson_Tigers_logo.svg/225px-Clemson_Tigers_logo.svg.png" alt="Clemson Tigers" height="20" width="20" align = "center"/>
-  </a> </h3>
-<h4 align="center">Department of Automotive Engineering - International Center for Automotive Research</h4>
+I amd Robotics Software Engineer, and I have a Master's from Clemson University <a href="https://www.clemson.edu/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Clemson_Tigers_logo.svg/960px-Clemson_Tigers_logo.svg.png" alt="Go Tigers" height="20" width="20" align = "center"/></a> and bachelors from MIT, Manipal <a href="https://www.manipal.edu/mit.html"> <img src=https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Manipal_Tech_new_logo.png/250px-Manipal_Tech_new_logo.png height=20 align=center> </a>
 
-- 🔭 I’m currently looking for new job opportunities, meanwhile, I am working on off-road autonomy
+## About me
 
-- 🌱 I’m learning C++
+- 🌱 Thesee days my interests are in Embedded Systems, Dockers, IoT
 
-- 📫 How to reach me: pswaroo@clemson.edu | ppswaroopa@gmail.com
+- 📫 How to reach me: ppswaroopa [at] gmail [dot] com
 
 - 😄 Pronouns: He/Him
 
@@ -17,39 +14,46 @@
 
 - 🌐 My portfolio [ppswaroopa.github.io](https://ppswaroopa.github.io)
 
-- 📄 Know about my work & experiences : [My Resume](https://drive.google.com/uc?export=download&id=14D5X3j-NhxKQE5NuNnpyptPG89hG1caY)
+- Highlighted Projects : [ros2-dockergen](https://ppswaroopa.github.io/ros2-dockergen/) | [Autonomous Turtlebot](https://github.com/ppswaroopa/AutoBot) | [Drivable Area Detection under Severe Weather](https://github.com/ppswaroopa/Lane-Detection-In-Foggy-Weather)
 
-- Highlighted Projects : [Autonomous Turtlebot](https://github.com/ppswaroopa/AutoBot) | [Drivable Area Detection under Severe Weather](https://github.com/ppswaroopa/Lane-Detection-In-Foggy-Weather) | [Linux System Monitor](https://github.com/ppswaroopa/Linux-System-Monitor) | [Snake Game](https://github.com/ppswaroopa/Snake-Game)
+- Graduate Research : [Off-road Dataset + Labeler](https://github.com/jhn8709/ExperimentalForest) 
 
-- Currently working on: [Off-road Dataset + Labeler](https://github.com/jhn8709/ExperimentalForest) 
+- Connect with me on LinkedIn <a href="https://www.linkedin.com/in/pranavaswaroopa/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height=20 align=center/></a>
 
-- Connect with me on LinkedIn <a href="https://www.linkedin.com/in/pranavaswaroopa/" target="blank"><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranava-swaroopa" height="20" width="20" /></a>
+## Projects where I had fun
 
-## Languages and Tools
+- [ros2-dockergen](https://ppswaroopa.github.io/ros2-dockergen/) : Generate Dockerfile and docker-compose.yml for ROS2 development instantly.
+- [Autonomous Turtlebot](https://github.com/ppswaroopa/AutoBot) : My first autonomous mobile robot group project.
+- [Drivable Area Detection under Severe Weather](https://github.com/ppswaroopa/Lane-Detection-In-Foggy-Weather) : The one deep learning project where I got decent results.
 
-<p align="left">   
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+## Incomplete list of things I have meddled with
 
-  <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/450px-Ros_logo.svg.png" alt="c" width="141" height="40"/> </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="c" width="50" height="40"/> </a>
-  <a href="https://www.autodesk.com/products/autocad/overview/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/AutoCad_logo.svg" alt="c" width="100" height="40"/> </a>
-  </p>
+### OS/Architecture
+
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,raspberrypi,arduino,windows)](https://skillicons.dev)
+
+### Programming Languages
+
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,matlab,bash,html,css,js)](https://skillicons.dev)
+
+### Software development tools
+
+[![My Skills](https://skillicons.dev/icons?i=git,cmake,vscode,visualstudio,azure,docker.redis)](https://skillicons.dev)
+
+### Frameworks
+
+[![My Skills](https://skillicons.dev/icons?i=ros,tensorflow,opencv)](https://skillicons.dev)
+
+### Tools
+
+[![My Skills](https://skillicons.dev/icons?i=autocad,figma)](https://skillicons.dev)
   
-### GitHub Stats:
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ppswaroopa&langs_count=6&theme=dark&hide_border=true&layout=compact)]()
-
+## Stats
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ppswaroopa&theme=dark&show_icons=true&hide_border=true&layout=compact) ![GitHub Stats](https://streak-stats.demolab.com?user=ppswaroopa&theme=dark&hide_border=true) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppswaroopa&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="ppswaroopa's GitHub Stats" height=150 />
+<img src="https://streak-stats.demolab.com?user=ppswaroopa&theme=dark&hide_border=true" alt="ppswaroopa's GitHub Stats" height=150/>
 <!--
 **ppswaroopa/ppswaroopa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ppswaroopa&count_private=true&theme=tokyonight&showicons=true)]()
 -->
 
 <!-- Inspired by https://github.com/chandrikadeb7/chandrikadeb7 -->
