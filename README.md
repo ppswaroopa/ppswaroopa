@@ -1,6 +1,6 @@
 # **Hi, I'm Pranava Swaroopa**
 
-I amd Robotics Software Engineer, and I have a Master's from Clemson University <a href="https://www.clemson.edu/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Clemson_Tigers_logo.svg/960px-Clemson_Tigers_logo.svg.png" alt="Go Tigers" height="20" width="20" align = "center"/></a> and bachelors from MIT, Manipal <a href="https://www.manipal.edu/mit.html"> <img src=https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Manipal_Tech_new_logo.png/250px-Manipal_Tech_new_logo.png height=20 align=center> </a>
+I am a Robotics Software Engineer, and I have a Master's from Clemson University <a href="https://www.clemson.edu/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Clemson_Tigers_logo.svg/960px-Clemson_Tigers_logo.svg.png" alt="Clemson" height="18" style="vertical-align:middle; margin-left:4px;"></a> and a bachelor's from MIT, Manipal <a href="https://www.manipal.edu/mit.html"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Manipal_Tech_new_logo.png/250px-Manipal_Tech_new_logo.png" alt="MIT Manipal" height="18" style="vertical-align:middle; margin-left:4px;"></a>.
 
 ## About me
 
@@ -13,8 +13,6 @@ I amd Robotics Software Engineer, and I have a Master's from Clemson University 
 - ⚡ Fun fact: I have experience working with Turtlebots, Fly Brain, and Oil Refineries.
 
 - 🌐 My portfolio [ppswaroopa.github.io](https://ppswaroopa.github.io)
-
-- Highlighted Projects : [ros2-dockergen](https://ppswaroopa.github.io/ros2-dockergen/) | [Autonomous Turtlebot](https://github.com/ppswaroopa/AutoBot) | [Drivable Area Detection under Severe Weather](https://github.com/ppswaroopa/Lane-Detection-In-Foggy-Weather)
 
 - Graduate Research : [Off-road Dataset + Labeler](https://github.com/jhn8709/ExperimentalForest) 
 
@@ -50,7 +48,9 @@ I amd Robotics Software Engineer, and I have a Master's from Clemson University 
   
 ## Stats
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ppswaroopa&theme=dark&show_icons=true&hide_border=true&layout=compact) ![GitHub Stats](https://streak-stats.demolab.com?user=ppswaroopa&theme=dark&hide_border=true) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppswaroopa&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="ppswaroopa's GitHub Stats" height=150 />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ppswaroopa&layout=compact&langs_count=6)](https://github-stats-extended.vercel.app/api/top-langs?username=ppswaroopa&layout=compact&langs_count=6) [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ppswaroopa&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=ppswaroopa&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true)
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppswaroopa&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="ppswaroopa's GitHub Stats" height=150 /> -->
 <img src="https://streak-stats.demolab.com?user=ppswaroopa&theme=dark&hide_border=true" alt="ppswaroopa's GitHub Stats" height=150/>
 <!--
 **ppswaroopa/ppswaroopa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
