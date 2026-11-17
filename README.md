@@ -1,5 +1,5 @@
 # **Hi, I'm Pranava Swaroopa**
-
+![](https://hit.yhype.me/github/profile?account_id=26227087)
 I am a Robotics Software Engineer, and I have a Master's from Clemson University <a href="https://www.clemson.edu/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Clemson_Tigers_logo.svg/960px-Clemson_Tigers_logo.svg.png" alt="Clemson" height="18" style="vertical-align:middle; margin-left:4px;"></a> and a bachelor's from MIT, Manipal <a href="https://www.manipal.edu/mit.html"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Manipal_Tech_new_logo.png/250px-Manipal_Tech_new_logo.png" alt="MIT Manipal" height="18" style="vertical-align:middle; margin-left:4px;"></a>.
 
 ## About me
